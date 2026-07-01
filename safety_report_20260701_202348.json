@@ -1,0 +1,274 @@
+{
+  "session_summary": {
+    "start_time": "2026-07-01T20:23:18.266440",
+    "frames_processed": 150,
+    "total_persons_detected": 17,
+    "total_alerts": 19,
+    "danger_events": 2,
+    "unauthorized_device_events": 0,
+    "objects_seen": {
+      "toothbrush": 5,
+      "person": 17,
+      "baseball bat": 1,
+      "skateboard": 4,
+      "dog": 1,
+      "bird": 4,
+      "scissors": 2
+    },
+    "snapshots_saved": [
+      "outputs/safety_snap_0030.jpg",
+      "outputs/safety_snap_0060.jpg",
+      "outputs/safety_snap_0090.jpg",
+      "outputs/safety_snap_0120.jpg",
+      "outputs/safety_snap_0150.jpg"
+    ]
+  },
+  "event_log": [
+    {
+      "timestamp": "2026-07-01T20:23:44.793107",
+      "alert_level": "CLEAR",
+      "alert_message": "Zone Clear",
+      "person_count": 0,
+      "danger_objects": [],
+      "unauthorized_devices": [],
+      "all_detections": [],
+      "object_count": 0,
+      "scene_density": "empty",
+      "text_detected": []
+    },
+    {
+      "timestamp": "2026-07-01T20:23:44.988713",
+      "alert_level": "CLEAR",
+      "alert_message": "Zone Clear",
+      "person_count": 0,
+      "danger_objects": [],
+      "unauthorized_devices": [],
+      "all_detections": [],
+      "object_count": 0,
+      "scene_density": "empty",
+      "text_detected": []
+    },
+    {
+      "timestamp": "2026-07-01T20:23:45.165910",
+      "alert_level": "CLEAR",
+      "alert_message": "Zone Clear",
+      "person_count": 0,
+      "danger_objects": [],
+      "unauthorized_devices": [],
+      "all_detections": [],
+      "object_count": 0,
+      "scene_density": "empty",
+      "text_detected": []
+    },
+    {
+      "timestamp": "2026-07-01T20:23:45.327445",
+      "alert_level": "CLEAR",
+      "alert_message": "Zone Clear",
+      "person_count": 0,
+      "danger_objects": [],
+      "unauthorized_devices": [],
+      "all_detections": [],
+      "object_count": 0,
+      "scene_density": "empty",
+      "text_detected": []
+    },
+    {
+      "timestamp": "2026-07-01T20:23:45.497522",
+      "alert_level": "CLEAR",
+      "alert_message": "Zone Clear",
+      "person_count": 0,
+      "danger_objects": [],
+      "unauthorized_devices": [],
+      "all_detections": [],
+      "object_count": 0,
+      "scene_density": "empty",
+      "text_detected": []
+    },
+    {
+      "timestamp": "2026-07-01T20:23:45.665701",
+      "alert_level": "CLEAR",
+      "alert_message": "Zone Clear",
+      "person_count": 0,
+      "danger_objects": [],
+      "unauthorized_devices": [],
+      "all_detections": [],
+      "object_count": 0,
+      "scene_density": "empty",
+      "text_detected": []
+    },
+    {
+      "timestamp": "2026-07-01T20:23:45.835590",
+      "alert_level": "CLEAR",
+      "alert_message": "Zone Clear",
+      "person_count": 0,
+      "danger_objects": [],
+      "unauthorized_devices": [],
+      "all_detections": [],
+      "object_count": 0,
+      "scene_density": "empty",
+      "text_detected": []
+    },
+    {
+      "timestamp": "2026-07-01T20:23:46.004420",
+      "alert_level": "CLEAR",
+      "alert_message": "Zone Clear",
+      "person_count": 0,
+      "danger_objects": [],
+      "unauthorized_devices": [],
+      "all_detections": [],
+      "object_count": 0,
+      "scene_density": "empty",
+      "text_detected": []
+    },
+    {
+      "timestamp": "2026-07-01T20:23:46.181269",
+      "alert_level": "CLEAR",
+      "alert_message": "Zone Clear",
+      "person_count": 0,
+      "danger_objects": [],
+      "unauthorized_devices": [],
+      "all_detections": [],
+      "object_count": 0,
+      "scene_density": "empty",
+      "text_detected": []
+    },
+    {
+      "timestamp": "2026-07-01T20:23:46.345931",
+      "alert_level": "CLEAR",
+      "alert_message": "Zone Clear",
+      "person_count": 0,
+      "danger_objects": [],
+      "unauthorized_devices": [],
+      "all_detections": [],
+      "object_count": 0,
+      "scene_density": "empty",
+      "text_detected": []
+    },
+    {
+      "timestamp": "2026-07-01T20:23:46.512972",
+      "alert_level": "CLEAR",
+      "alert_message": "Zone Clear",
+      "person_count": 0,
+      "danger_objects": [],
+      "unauthorized_devices": [],
+      "all_detections": [],
+      "object_count": 0,
+      "scene_density": "empty",
+      "text_detected": []
+    },
+    {
+      "timestamp": "2026-07-01T20:23:46.697844",
+      "alert_level": "CLEAR",
+      "alert_message": "Zone Clear",
+      "person_count": 0,
+      "danger_objects": [],
+      "unauthorized_devices": [],
+      "all_detections": [],
+      "object_count": 0,
+      "scene_density": "empty",
+      "text_detected": []
+    },
+    {
+      "timestamp": "2026-07-01T20:23:46.862173",
+      "alert_level": "DANGER",
+      "alert_message": "DANGER \u2014 Hazard Detected!",
+      "person_count": 0,
+      "danger_objects": [
+        "scissors"
+      ],
+      "unauthorized_devices": [],
+      "all_detections": [
+        "scissors"
+      ],
+      "object_count": 1,
+      "scene_density": "sparse",
+      "text_detected": []
+    },
+    {
+      "timestamp": "2026-07-01T20:23:47.037351",
+      "alert_level": "CLEAR",
+      "alert_message": "Zone Clear",
+      "person_count": 0,
+      "danger_objects": [],
+      "unauthorized_devices": [],
+      "all_detections": [],
+      "object_count": 0,
+      "scene_density": "empty",
+      "text_detected": []
+    },
+    {
+      "timestamp": "2026-07-01T20:23:47.217338",
+      "alert_level": "CLEAR",
+      "alert_message": "Zone Clear",
+      "person_count": 0,
+      "danger_objects": [],
+      "unauthorized_devices": [],
+      "all_detections": [],
+      "object_count": 0,
+      "scene_density": "empty",
+      "text_detected": []
+    },
+    {
+      "timestamp": "2026-07-01T20:23:47.384866",
+      "alert_level": "CLEAR",
+      "alert_message": "Zone Clear",
+      "person_count": 0,
+      "danger_objects": [],
+      "unauthorized_devices": [],
+      "all_detections": [],
+      "object_count": 0,
+      "scene_density": "empty",
+      "text_detected": []
+    },
+    {
+      "timestamp": "2026-07-01T20:23:47.563784",
+      "alert_level": "CLEAR",
+      "alert_message": "Zone Clear",
+      "person_count": 0,
+      "danger_objects": [],
+      "unauthorized_devices": [],
+      "all_detections": [],
+      "object_count": 0,
+      "scene_density": "empty",
+      "text_detected": []
+    },
+    {
+      "timestamp": "2026-07-01T20:23:47.747571",
+      "alert_level": "CLEAR",
+      "alert_message": "Zone Clear",
+      "person_count": 0,
+      "danger_objects": [],
+      "unauthorized_devices": [],
+      "all_detections": [],
+      "object_count": 0,
+      "scene_density": "empty",
+      "text_detected": []
+    },
+    {
+      "timestamp": "2026-07-01T20:23:47.910909",
+      "alert_level": "CLEAR",
+      "alert_message": "Zone Clear",
+      "person_count": 0,
+      "danger_objects": [],
+      "unauthorized_devices": [],
+      "all_detections": [
+        "skateboard"
+      ],
+      "object_count": 1,
+      "scene_density": "sparse",
+      "text_detected": []
+    },
+    {
+      "timestamp": "2026-07-01T20:23:48.085952",
+      "alert_level": "CLEAR",
+      "alert_message": "Zone Clear",
+      "person_count": 0,
+      "danger_objects": [],
+      "unauthorized_devices": [],
+      "all_detections": [],
+      "object_count": 0,
+      "scene_density": "empty",
+      "text_detected": []
+    }
+  ]
+}
